@@ -50,8 +50,6 @@ Könnt ihr ja selber einbauen, es ist nur Lua! Ich würde empfehlen einfach eine
 - hier-koennt-ihr-bilder-austauschen
 - lightroom-ich-finde-dich-super-2000
 
-Alternativ könnte man sicher auch einen schönen Header übergeben, oder so, das Plugin ist nur in Lua, das beißt nicht. Viel Spaß!
-
 
 ## Lizenz
 
